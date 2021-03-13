@@ -1,3 +1,11 @@
-theme: jekyll-theme-cayman
+# Plants Cupid Website 
 
+theme: jekyll-theme-cayman
 baseurl: "/soil/"
+
+navbar-links:
+  About : "About"
+   
+title: Plants Cupid
+author: Caroline M 
+
