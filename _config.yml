@@ -1,6 +1,9 @@
 # Plants Cupid Website 
 
 theme: jekyll-theme-cayman
+title: Plants Cupid
+description: by a Computer Scientist who loves plants
+
 baseurl: "/soil/"
 
 navbar-links:
